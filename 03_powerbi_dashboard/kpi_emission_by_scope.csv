@@ -1,0 +1,31 @@
+facility_name,scope,total_co2_ton
+Vestal Chemical Works,Scope 1,1041.66
+Vestal Chemical Works,Scope 2,1013.6
+Northline Manufacturing Plant,Scope 1,922.12
+Greenfield Manufacturing Plant,Scope 2,869.87
+Delta Distribution Center,Scope 1,869.55
+Northline Manufacturing Plant,Scope 2,862.84
+Greenfield Manufacturing Plant,Scope 1,860.64
+Delta Distribution Center,Scope 2,820.98
+Ironforge Manufacturing Plant,Scope 1,782.44
+Ironforge Manufacturing Plant,Scope 2,726.35
+Polder Production Facility,Scope 1,721.81
+Polder Production Facility,Scope 2,719.84
+Rhineland Metal Processing Site,Scope 2,700.97
+Rhineland Metal Processing Site,Scope 1,660.5
+Vestal Manufacturing Plant,Scope 1,656.39
+Vestal Manufacturing Plant,Scope 2,636.78
+Nordic Metal Processing Site,Scope 1,617.87
+Rhineland Production Facility,Scope 2,617.06
+Rhineland Production Facility,Scope 1,602.71
+Nordic Metal Processing Site,Scope 2,574.15
+Delta Logistics Hub,Scope 2,546.33
+Delta Logistics Hub,Scope 1,519.37
+Meridian Metal Processing Site,Scope 1,498.31
+Baltic Metal Processing Site,Scope 1,479.83
+Baltic Logistics Hub,Scope 2,439.37
+Meridian Metal Processing Site,Scope 2,421.77
+Cascade Distribution Center,Scope 1,416.98
+Baltic Logistics Hub,Scope 1,415.59
+Baltic Metal Processing Site,Scope 2,397.73
+Cascade Distribution Center,Scope 2,377.95

@@ -1,0 +1,16 @@
+facility_code;facility_name;city;country;sector;establishment_year
+FAC-001;Greenfield Manufacturing Plant;Amsterdam;Belgium;Textile Manufacturing;1999
+FAC-002;Rhineland Metal Processing Site; Amsterdam;netherlands;Logistics & Warehousing;2012
+FAC-003;Northline Manufacturing Plant;AMSTERDAM;France;Textile Manufacturing;2017
+FAC-004;Ironforge Manufacturing Plant;brussels;France;;2019
+FAC-005;Polder Production Facility;Paris;Belgium;Packaging Manufacturing;1985
+FAC-006;Cascade Distribution Center;rotterdam;IT;Chemical Manufacturing;2002
+FAC-007;Rhineland Production Facility;berlin;The Netherlands;Automotive Supply;2009
+FAC-008;Delta Logistics Hub;BERLIN;Belgium;;1987
+FAC-009;Vestal Chemical Works;brussels;The Netherlands;Food Processing;1990
+FAC-010;Baltic Logistics Hub;Milan;PL;Logistics & Warehousing;1997
+FAC-011;Vestal Manufacturing Plant;amsterdam;FR;Packaging Manufacturing;2003
+FAC-012;Delta Distribution Center;The Hague;The Netherlands;Food Processing;2002
+FAC-013;Nordic Metal Processing Site;BERLIN;DE;Chemical Manufacturing;2007
+FAC-014;Meridian Metal Processing Site;the hague;netherlands;Logistics & Warehousing;1995
+FAC-015;Baltic Metal Processing Site;The Hague;DE;Food Processing;2009

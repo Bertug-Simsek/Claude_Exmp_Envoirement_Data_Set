@@ -1,0 +1,68 @@
+department_id,department_name,facility_code,manager_name
+DPT-0001,Procurement,FAC-001,Luca Berg
+DPT-0002,Human Resources,FAC-001,Elena Rossi
+DPT-0003,Production,FAC-001,Laura Bakker
+DPT-0004,sales,FAC-001,Stefan Wagner
+DPT-0005,Production,FAC-001,Willem Nilsson
+DPT-0006,Human Resources,FAC-002,Marco Nowak
+DPT-0007,r&d,FAC-002,Mateusz Kowalski
+DPT-0008,Logistics,FAC-002,Bram Smit
+DPT-0009,Human Resources,FAC-002,Chiara Berg
+DPT-0010,maintenance repair,FAC-002,Bram Nilsson
+DPT-0011,Finance & Accounting,FAC-003,Stefan Bianchi
+DPT-0012,Human Resources,FAC-003,Pieter Andersson
+DPT-0013,quality control,FAC-003,Jan Bakker
+DPT-0014,Production,FAC-003,Pieter Meijer
+DPT-0015,EHS,FAC-003,Charlotte Peeters
+DPT-0016,Production,FAC-003,Stefan Dubois
+DPT-0017,Maintenance & Repair,FAC-004,Bram Berg
+DPT-0018,Production,FAC-004,Elena Visser
+DPT-0019,EHS,FAC-004,Mateusz Berg
+DPT-0020,Human Resources,FAC-004,Antoine Rossi
+DPT-0021,Production,FAC-004,Julia Lambert
+DPT-0022,Logistics,FAC-004,Hans de Vries
+DPT-0023,Maintenance & Repair,FAC-005,Antoine Meijer
+DPT-0024,Maintenance & Repair,FAC-005,Kasia Visser
+DPT-0025,Procurement,FAC-005,Julia Andersson
+DPT-0026,finance,FAC-005,Willem Smit
+DPT-0027,R&D,FAC-005,Antoine Meijer
+DPT-0028,finance,FAC-006,Not Assigned
+DPT-0029,Production,FAC-006,Sophie Bianchi
+DPT-0030,Sales & Marketing,FAC-006,Laura Bakker
+DPT-0031,Finance & Accounting,FAC-007,Not Assigned
+DPT-0032,quality control,FAC-007,Felix Jansen
+DPT-0033,maintenance repair,FAC-007,Antoine Smit
+DPT-0034,Logistics,FAC-007,Elena Nowak
+DPT-0035,Human Resources,FAC-008,Erik Peeters
+DPT-0036,R&D,FAC-008,Willem Berg
+DPT-0037,Human Resources,FAC-008,Luca Novak
+DPT-0038,r&d,FAC-008,Elena Bianchi
+DPT-0039,Maintenance & Repair,FAC-009,Hans Visser
+DPT-0040,Human Resources,FAC-009,Laura Jansen
+DPT-0041,sales,FAC-009,Lars Nilsson
+DPT-0042,maintenance repair,FAC-009,Laura Nilsson
+DPT-0043,Human Resources,FAC-009,Lars Jansen
+DPT-0044,Procurement,FAC-009,Anna Schmidt
+DPT-0045,Production,FAC-010,Greta Rossi
+DPT-0046,Production,FAC-010,Erik Schmidt
+DPT-0047,Human Resources,FAC-010,Elena Nowak
+DPT-0048,maintenance repair,FAC-011,Pieter Nilsson
+DPT-0049,Finance & Accounting,FAC-011,Lena Schmidt
+DPT-0050,quality control,FAC-011,Camille Lambert
+DPT-0051,Human Resources,FAC-011,Sophie Visser
+DPT-0052,R&D,FAC-012,Charlotte Lambert
+DPT-0053,Quality Control,FAC-012,Greta Bakker
+DPT-0054,EHS,FAC-012,Marco Visser
+DPT-0055,Production,FAC-012,Stefan Rossi
+DPT-0056,Production,FAC-012,Not Assigned
+DPT-0057,Human Resources,FAC-012,Isabelle Kowalski
+DPT-0058,R&D,FAC-013,Emma Wagner
+DPT-0059,Quality Control,FAC-013,Laura Jansen
+DPT-0060,Quality Control,FAC-013,Camille Berg
+DPT-0061,Production,FAC-013,Anna Berg
+DPT-0062,Production,FAC-014,Kasia Schmidt
+DPT-0063,Logistics,FAC-014,Charlotte Nowak
+DPT-0064,quality control,FAC-014,Willem Dubois
+DPT-0065,Logistics,FAC-015,Stefan de Vries
+DPT-0066,r&d,FAC-015,Bram Kowalski
+DPT-0067,Sales & Marketing,FAC-015,Charlotte Berg
